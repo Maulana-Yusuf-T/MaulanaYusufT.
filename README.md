@@ -19,6 +19,6 @@ Jakarta, Indonesia.<br>
 **Libraries / Framework**: Pandas, NumPy, SciPy, Scikit-Learn, Streamlit, Joblib, TensorFlow, ElasticSearch.<br>
 **Tools**: Visual Studio Code, PostgreSQL, Google BigQuery, Docker Deskstop, MongoDB.
 **Machine Learning**: Supervised & Unsupervised Learning, Deep-Learning, Natural Language Processing (NLP), Computer Vision (CV).<br>
-**Others**: Exploratory Data Analysis (EDA), Feature Engineering (Fe), Time Series.<br>
+**Others**: Exploratory Data Analysis (EDA), Feature Engineering (FE), Time Series.<br>
 
 ### 🌐 **Let's get connected!**
