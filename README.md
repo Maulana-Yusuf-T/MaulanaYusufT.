@@ -22,4 +22,4 @@ Jakarta, Indonesia.<br>
 **Others**: Exploratory Data Analysis (EDA), Feature Engineering (FE), Time Series.<br>
 
 ### 🌐 **Let's get connected!**
-**LinkedIn**: [www.linkedin.com/in/maulana-yusuf-taufiqurrahman-5281662a2](Connect to LinkedIn).<br> 
+**LinkedIn**: [www.linkedin.com/in/maulana-yusuf-taufiqurrahman-5281662a2] (Connect to LinkedIn).<br> 
