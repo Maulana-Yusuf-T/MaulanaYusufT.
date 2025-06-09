@@ -24,3 +24,5 @@ Jakarta, Indonesia.<br>
 ### 🌐 **Let's get connected!**
 **LinkedIn**: [Connect to LinkedIn](www.linkedin.com/in/maulana-yusuf-taufiqurrahman-5281662a2).<br>
 **Email**: m.yusuftaofik@gmail.com
+
+Thanks for stopping by! You are welcome to browse my repositories.
