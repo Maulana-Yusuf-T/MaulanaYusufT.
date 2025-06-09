@@ -8,7 +8,7 @@ A self-reliant and diligent individual with a strong eagerness to learn and expl
 
 ### 🎓 **Education** 
 1. Hacktiv8 Indonesia - Full Time Data Science.<br>
-2. International University Liaison Indonesia - Bachelor of Engineering - Mechatronics Engineering<br>
+2. International University Liaison Indonesia - Bachelor of Engineering - Mechatronics Engineering.<br>
 
 ### 📍 **Location** 
 Jakarta, Indonesia.<br>
@@ -18,7 +18,7 @@ Jakarta, Indonesia.<br>
 **Visualization Tools**: Tableau, Matplotlib, Seaborn, Kibana.<br>
 **Libraries / Framework**: Pandas, NumPy, SciPy, Scikit-Learn, Streamlit, Joblib, TensorFlow, ElasticSearch.<br>
 **Tools**: Visual Studio Code, PostgreSQL, Google BigQuery, Docker Deskstop, MongoDB.
-**Machine Learning**: Supervised & Unsupervised Learning, Deep-Learning, Natural Language Processing (NLP), Computer Vision (CV).
-**Others**: Exploratory Data Analysis (EDA), Feature Engineering (Fe), Time Series.
+**Machine Learning**: Supervised & Unsupervised Learning, Deep-Learning, Natural Language Processing (NLP), Computer Vision (CV).<br>
+**Others**: Exploratory Data Analysis (EDA), Feature Engineering (Fe), Time Series.<br>
 
 ### 🌐 **Let's get connected!**
